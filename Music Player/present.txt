@@ -1,0 +1,7 @@
+This module is for give the dark and light theme.
+
+we use Qpalette here . And this is one of the reasons wy we use qt5 .
+
+Qpalette and store all appearance properties of the window into a single entity.
+
+ Buttons, window , text , label ,etc. are some qt5 components
